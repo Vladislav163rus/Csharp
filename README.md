@@ -8,3 +8,6 @@
 
 ## Задача 6
 [Блок схема](https://github.com/Vladislav163rus/Csharp/blob/main/Less1/Task3/Task3.drawio.png) ; [Код](https://github.com/Vladislav163rus/Csharp/blob/main/Less1/Task3/Task3.csproj)
+
+## Задача 8
+[Блок схема](https://github.com/Vladislav163rus/Csharp/blob/main/Less1/Task4/Task4.drawio.png) ; [Код](https://github.com/Vladislav163rus/Csharp/blob/main/Less1/Task4/Task4.csproj)
