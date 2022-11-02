@@ -3,7 +3,6 @@
  int num_3 =78;
  int max= num_1 ;
 
-
             if (num_2 > max)
             {
                 max = num_2;
