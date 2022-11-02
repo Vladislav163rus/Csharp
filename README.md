@@ -11,3 +11,8 @@
 
 ## Задача 8
 [Блок схема](https://github.com/Vladislav163rus/Csharp/blob/main/Less1/Task4/Task4.drawio.png) ; [Код](https://github.com/Vladislav163rus/Csharp/blob/main/Less1/Task4/Task4.csproj)
+
+# Блок 2
+
+## Задача 2
+[код](https://github.com/Vladislav163rus/Csharp/blob/main/Less2/Task1/Program.cs)
