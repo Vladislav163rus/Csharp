@@ -22,3 +22,11 @@
 
 ## Задача 15
 [код](https://github.com/Vladislav163rus/Csharp/blob/main/Less2/Task3/Program.cs)
+
+# Блок 3
+
+## Задача 19
+[код](https://github.com/Vladislav163rus/Csharp/blob/main/Less3/Task1/Program.cs)
+
+## Задача 23
+[код](https://github.com/Vladislav163rus/Csharp/blob/main/Less3/Task2/Program.cs)
