@@ -30,3 +30,14 @@
 
 ## Задача 23
 [код](https://github.com/Vladislav163rus/Csharp/blob/main/Less3/Task2/Program.cs)
+
+# Блок 4
+
+## Задача 25
+[код](https://github.com/Vladislav163rus/Csharp/blob/main/Less4/Task1/Program.cs)
+
+## Задача 27
+[код](https://github.com/Vladislav163rus/Csharp/blob/main/Less4/Task2/Program.cs)
+
+## Задача 29
+[код](https://github.com/Vladislav163rus/Csharp/blob/main/Less4/Task3/Program.cs)
