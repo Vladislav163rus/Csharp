@@ -52,3 +52,11 @@
 
 ## Задача 38
 [код](https://github.com/Vladislav163rus/Csharp/blob/main/Less5/Task3/Program.cs)
+
+# Блок 6
+
+## Задача 41
+[код](https://github.com/Vladislav163rus/Csharp/blob/main/Less6/Task1/Program.cs)
+
+## Задача 43
+[код](https://github.com/Vladislav163rus/Csharp/blob/main/Less6/Task2/Program.cs)
