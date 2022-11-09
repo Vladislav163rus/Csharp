@@ -60,3 +60,26 @@
 
 ## Задача 43
 [код](https://github.com/Vladislav163rus/Csharp/blob/main/Less6/Task2/Program.cs)
+
+# Блок 5
+
+## Задача 34
+[код](https://github.com/Vladislav163rus/Csharp/blob/main/Less5/Task1/Program.cs)
+
+## Задача 36
+[код](https://github.com/Vladislav163rus/Csharp/blob/main/Less5/Task2/Program.cs)
+
+## Задача 38
+[код](https://github.com/Vladislav163rus/Csharp/blob/main/Less5/Task3/Program.cs)
+
+# Блок 7
+
+## Задача 47
+[код](https://github.com/Vladislav163rus/Csharp/blob/main/Less7/Task1/Program.cs)
+
+## Задача 50
+[код](https://github.com/Vladislav163rus/Csharp/blob/main/Less7/Task2/Program.cs)
+
+## Задача 52
+[код](https://github.com/Vladislav163rus/Csharp/blob/main/Less7/Task3/Program.cs)
+
